@@ -2,6 +2,9 @@
 This is a Basic Banking System</b> with dummy data in the database of 10 customers.
 It has no log-in or authentication page. It only transfers money between multiple users and updates the database accordingly.
 Flow: Home Page>View all Customers>Select and View one Customer>Transfer Money>Select Customer to Transfer to>View all Customers.
+
+
+
       Technological Stack used:
                  Php
                  Html
